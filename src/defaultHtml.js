@@ -6,7 +6,7 @@ export const defaultHtml = `<!DOCTYPE html>
 
 <p id="demo"></p>
 
-<p>I am Sasi, CS graduate with professional experience in React development.</p>
+<p>This is a online code editor.</p>
 
 <h3>Happy hacking!</h3>
 <script>
